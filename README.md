@@ -1,5 +1,4 @@
 # advanced-git-tricks
-Advanced Git Tricks (Titles Only)
 
 Interactive Rebase
 
@@ -39,7 +38,7 @@ Annotating Code History
 
 Filtering Commits by Author
 
-Filtering Commits by Date Range
+- Filtering Commits by Date Range ✅
 
 Filtering Commits by Path
 
